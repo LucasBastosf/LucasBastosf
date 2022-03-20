@@ -1,5 +1,5 @@
 
-### Bem vindo povo! ao meu humilde Github me chamo Lucas
+### Bem vindo povo! a minha humilde conta no Github
 
 ![LucasBastosf GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBastosf&show_icons=true&theme=dark)
 
@@ -13,4 +13,6 @@
 </div><br/>
 
 Apaixonado por tecnologia, educação, livros e mudar a vida das pessoa atraves da programação.
+
+
 
