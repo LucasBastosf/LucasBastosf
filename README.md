@@ -12,7 +12,7 @@
 <img aling="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div><br/>
 
-Apaixonado por tecnologia, livros, e poder contribuir para mudar a vida das pessoa atraves da programação.
+"Tecnologias que uso no meu dia" =  Tecnologias de Suporte no desenvolvimento em Back-end.
 
 
 
