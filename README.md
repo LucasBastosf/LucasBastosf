@@ -3,7 +3,7 @@
 
 ![LucasBastosf GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBastosf&show_icons=true&theme=dark)
 
-##  Tecnologias de Suporte no desenvolvimento em Back-end.
+##  Tecnologias de Suporte no desenvolvimento em Back-end
 
 <div style="display: inline_block"><br/>
 <img aling="center" alt="dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
