@@ -1,12 +1,12 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
+ Hi, how are you? I'm
     <a href="https://www.linkedin.com/in/lucas-freitas-de-bastos-b134a21ba/">Lucas Bastos 😃️</a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Back End gosto muito de compartilhar meu conhecimento aprendizado e estudando.
+    I am a Back End Developer and I really like to share my knowledge, learning and studying.
     
 
 
